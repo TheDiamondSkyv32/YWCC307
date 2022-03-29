@@ -1,14 +1,11 @@
-# YWCC307 Github Setup (not really)
+# YWCC307 Presentation Topic (Python in Education)
 
-# Readme.MD file:
-	# This is purely for stylistic purposes.
-  
-# How to read this file:
-	# Use your eyes.  
+# Python in Education:
+	# How incorporating Python in the classroom will have a positive impact.  
 
-1.  Key topics we have covered in class:
-	* Effective Communication
-	* Different Types of Teams
-	* Preparing a presentation
-	* Working Efficiently in a Team Environment
-	* Git. 
+1.  Key talking points of the presentation:
+	* Introduce STEM concepts early
+	* Introduce Computer Science concepts early
+	* Python scripting language - simple, quick, create
+	* A Multipurpose language—library, frameworks
+	* Endless Opportunities 
